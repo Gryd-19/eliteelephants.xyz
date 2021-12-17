@@ -1,0 +1,119 @@
+body{
+    background-color: black;
+}
+nav{
+    background-color: black;
+}
+a:hover{
+    color: #702963 !important;
+}
+.container{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.navbar-nav{
+    justify-content: flex-end;
+    flex-grow: 1;
+    font-size: 1.3em;
+}
+.social{
+    font-size: 1.5em;
+    margin-left: 2em;
+}
+.fab{
+    color:white;
+    margin-left: 0.3em;
+}
+.fab:hover{
+    color: #702963;
+}
+.nav-link{
+    color:white !important;
+}
+
+h1{
+    color:white;
+    font-weight: bold;
+}
+h2{
+    color:white;
+    font-weight: bold;
+}
+h3{
+    color:white;
+    font-weight: bold;
+}
+.el-grid{
+    
+}
+.el-row{
+    justify-content: center;
+    margin-top:1rem;
+
+}
+.el-img{
+    max-width: 320px;
+}
+p{
+    color:white;
+    text-align: justify;
+    font-size: 1.2em;
+}
+.side{
+    height: 100%;
+    max-width: 20em;
+}
+.sec{
+    margin-top: 1.5rem;
+}
+#buy{
+    background-color: #702963;
+}
+#buy p{
+    color:black;
+    font-weight: bolder;
+    font-size: 1.4em;
+}
+#buy h2{
+    color:black;
+    font-size: larger;
+    font-size: 1.7em;
+}
+
+#buy button{
+    background-color: black;
+    color:#702963;
+    border-radius: 10px;
+    border-color: black;
+    font-size: larger;
+}
+ul{
+    list-style: none;
+}
+li{
+    color:white;
+    font-size: 1.3em;
+}
+h4{
+    color:white;
+}
+.prec{
+    color:#702963;
+    font-size: 1.3em;
+    font-weight: bolder;
+    padding-right: 1.3em;
+}
+.team p{
+    font-size: 1.2em;
+}
+.name{
+    color:#702963;
+    font-weight: bolder;
+    font-size: 1.3em;
+}
+.club{
+    text-align: center;
+}
+.crown{
+    max-width: 13em;
+}
