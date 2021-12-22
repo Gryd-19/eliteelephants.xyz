@@ -14,7 +14,8 @@ a:hover{
 .navbar-nav{
     justify-content: flex-end;
     flex-grow: 1;
-    font-size: 1.3em;
+    font-size: 1em;
+    font-style: italic;
 }
 .social{
     font-size: 1.5em;
@@ -116,4 +117,35 @@ h4{
 }
 .crown{
     max-width: 13em;
+}
+#note{
+    font-size: 1em;
+    font-weight: lighter;
+}
+.item{
+    max-width: 128px;
+}
+.itemContainer{
+    text-align: center;
+}
+.gif{
+    border-radius: 100px;
+    max-width: 250px;
+}
+.last-prec{
+    color:#702963;
+    font-size: 1.3em;
+    font-weight: bolder;
+    padding-right: 0.8em;
+}
+#contract{
+    text-align: center;
+    margin-top: 2em;
+    padding-bottom: 2em;
+}
+#contract a{
+    color:#702963;
+}
+#contract a:hover{
+    color:white !important;
 }
