@@ -69,6 +69,7 @@ p{
 }
 #buy{
     background-color: #702963;
+    border-radius: 20px;    
 }
 #buy p{
     color:black;
@@ -84,7 +85,7 @@ p{
 #buy button{
     background-color: black;
     color:#702963;
-    border-radius: 10px;
+    border-radius: 20px;
     border-color: black;
     font-size: larger;
 }
@@ -129,7 +130,7 @@ h4{
     text-align: center;
 }
 .gif{
-    border-radius: 100px;
+    border-radius: 20px;
     max-width: 250px;
 }
 .last-prec{
@@ -143,9 +144,13 @@ h4{
     margin-top: 2em;
     padding-bottom: 2em;
 }
-#contract a{
+.link{
     color:#702963;
 }
-#contract a:hover{
+.link:hover{
     color:white !important;
+}
+.prof{
+    max-width: 33%;
+    border-radius: 20px;
 }
