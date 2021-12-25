@@ -150,7 +150,9 @@ h4{
 .link:hover{
     color:white !important;
 }
-.prof{
-    max-width: 33%;
+
+    .prof{
+    width: 33%;
     border-radius: 20px;
 }
+
